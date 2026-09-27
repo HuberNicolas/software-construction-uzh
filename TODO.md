@@ -34,5 +34,5 @@ Open tasks before the repository is made public. See also [Known issues](README.
   `git remote set-url origin git@github.com:HuberNicolas/software-construction-uzh.git`
 - [x] Rewrite the private commit e-mail addresses of the co-authors to their GitHub noreply addresses with a mailmap
   (dates and content stay the same; backup: `_archive/swc-group38-before-filter-repo.bundle`)
-- [ ] Force-push `master`, the branch `repeating-user-inputs-(no-exceptions)` and the tags (`Final-V1`, `v1.0.0`, `v1.1.0`); create the releases `v1.0.0` ("As submitted") and `v1.1.0`
-- [ ] Check for secrets in the files and the git history, right before publishing
+- [x] Force-push `master`, the branch `repeating-user-inputs-(no-exceptions)` and the tags (`Final-V1`, `v1.0.0`, `v1.1.0`); create the releases `v1.0.0` ("As submitted") and `v1.1.0`
+- [x] Check for secrets in the files and the git history, right before publishing (none found)
