@@ -23,7 +23,7 @@ Open tasks before the repository is made public. See also [Known issues](README.
 ## 3. Documentation
 
 - [x] Rewrite the README (it described a Node.js project and a GPLv3 license file that did not exist)
-- [ ] Add the lecturer and the research group of the course to the README
+- [x] Add the lecturer and the research group of the course to the README
 
 ## 4. Before publishing
 

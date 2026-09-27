@@ -29,8 +29,10 @@ design with CRC cards.
 |---|---|
 | Course | Software Construction (lecture and exercises) |
 | Institution | Department of Informatics, University of Zurich |
+| Group | Zurich Empirical Software engineering Team (ZEST) |
+| Lecturer | Prof. Dr. Alberto Bacchelli |
 | Semester | Fall 2020 |
-| Group | 38 |
+| Student group | 38 |
 
 ## Contents
 
@@ -115,10 +117,10 @@ We worked on all assignments together.
 
 ## Acknowledgements
 
-The course Software Construction (Fall 2020) was taught at the Department of Informatics of the University of
-Zurich. The assignment tasks come from the course. Assignments 1 and 2 analyse
-[vis-ui](https://github.com/kotcrab/vis-ui) by Kotcrab (Apache License 2.0); its code is not part of this
-repository.
+The course Software Construction (Fall 2020) was taught by Prof. Dr. Alberto Bacchelli and the Zurich Empirical
+Software engineering Team (ZEST), Department of Informatics, University of Zurich. The assignment tasks come from
+the course. Assignments 1 and 2 analyse [vis-ui](https://github.com/kotcrab/vis-ui) by Kotcrab (Apache License 2.0);
+its code is not part of this repository.
 
 ## License
 
