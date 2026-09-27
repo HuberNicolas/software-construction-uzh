@@ -1,6 +1,6 @@
 # PART 1: Battleship:
 First, we made a diagram, to illustrate the overall structure of our program. 
-![Class Diagram Battleship](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_2/ClassdiagramBattleship.png "Class Diagram Battleship")
+![Class Diagram Battleship](ClassdiagramBattleship.png "Class Diagram Battleship")
 Then, we have implemented the different classes and fuctions, which we will describe now. We've commented our code, so we want explain every line.
 
 ## Main Class:
@@ -31,5 +31,5 @@ isFree() checks the gameboard, using the gamecoordinates, if the fields are free
 # PART 2: UML-Diagram
 The following UML class diagram visualizes the classes in ui/util/adapter from the kotcrab project. 
 The Visualizationscheme as learned in the lecture has been applied. As no special definition was given for nested classes, we chose to use the default arrow for inner classes. 
-![UML](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_2/UML/UML_2.png)
+![UML](UML/UML_2.png)
 

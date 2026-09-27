@@ -11,7 +11,7 @@ Those actors all share the three attributes name, surname and ID (considering al
 We also added some default cases, (eg. creating a customer with less than 0 money will lead to an exception and assign the default value savings = 0).
 
 This lead to the following structure of the system: 
-![Class Diagram Bank](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_4/UML/Class_Diagram_FINAL.png "Class Diagram Bank mangement System")
+![Class Diagram Bank](UML/Class_Diagram_FINAL.png "Class Diagram Bank mangement System")
 
 ## Exercise 2:
 
@@ -25,5 +25,5 @@ To test the system, we created a default case:
 
 With those created objects, we ran a variety of different test cases and possible errors like: What happens if a person tries to withdraw more money than he has or if a customers pays something by card but the limit is to low to pay.
 
-All tests are commented and in the folder "test" and the file is named "JUnitTests". [JUnitTests](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_4/test/JUnitTests.java)
+All tests are commented and in the folder "test" and the file is named "JUnitTests". [JUnitTests](test/JUnitTests.java)
 

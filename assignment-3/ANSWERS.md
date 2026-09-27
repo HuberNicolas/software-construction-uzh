@@ -1,6 +1,6 @@
 # Battleship:
 We made our new Battleship game according to these simplified notes: 
-![Class Diagram Battleship](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_3/ClassdiagramBattleship.png "Class Diagram Battleship")
+![Class Diagram Battleship](ClassdiagramBattleship.png "Class Diagram Battleship")
 The methods, attributes and classes inside the codes are commented. 
 Furthermore, we also implemented the following design patterns:
 

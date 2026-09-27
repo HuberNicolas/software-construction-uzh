@@ -18,4 +18,4 @@ The Controllerclass gets initialized. It has the ability to set the specific det
 
 ## UML
 This is the UML.
-![Class Diagram Company](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_6/CompanySystem/UML/UML_2.png "Class Diagram Company System")
+![Class Diagram Company](UML/UML_2.png "Class Diagram Company System")

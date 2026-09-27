@@ -4,7 +4,7 @@ Bulletpoint 1: Architecture
 -------
 
 (See vis-ui.png)
-![vis-ui](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part1/vis-ui.jpg "vis-ui Architecture")
+![vis-ui](Part1/vis-ui.jpg "vis-ui Architecture")
 Explanation in natural Language
 
 First things first: The goal of this program is to provide a skeleton to create an User Interface. Therefore, the program is divided into two parts: "vis-ui\\ui" and "vis-ui\\usl". The "ui"-package provides the actual assets to create the UI, whilest the usl is described as the command line tool. In this bulletpoint, we focused on the "vis-ui\\ui" package, as the actual result output of the program heavily relies on that part. It's to make things easier to understand and to reduce to the essentials. 
@@ -26,7 +26,7 @@ Bulletpoint 2: Callgraph
 
 The most prominent entry point seems to be the Main.java in the usl-package. From there, the first actual function call is the parse() function, which after that spreads rather wide. Therefore, to keep things somewhat clearly arranged, we concentrated on that part. In generall, it takes an input and breaks it up into parts that later are handled by the getJson() function, which is not further elaborated because of "simplicity" of the callgraph.
 
-![callgraph](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part1/Call_graph.png "Visualisation of a Callgraph")
+![callgraph](Part1/Call_graph.png "Visualisation of a Callgraph")
 
 PART 2:
 ======
@@ -45,31 +45,31 @@ Flowcharts for functions 1 to 6
 
 1. lexIdentifier in Lexer.java / 127
 ------
-![lexIdentifier](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/lexidentifier_final.png)
+![lexIdentifier](Part2/lexidentifier_final.png)
 
 
 2. lexIdentifierContent in Lexer.java / 147
 ------
-![lexIdentifierContent](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/lexIdentifierContent_final.png)
+![lexIdentifierContent](Part2/lexIdentifierContent_final.png)
 
 
 3. lexStyleBlock in Lexer.java / 214
 ------
-![lexStyleBlock](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/data_flow_lexStyleBlock.png)
+![lexStyleBlock](Part2/data_flow_lexStyleBlock.png)
 
 
 4. parseAndLexInclude in Lexer.java / 250
 ------
-![parseAndLexInclude](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/parseAndLexInclude.png)
+![parseAndLexInclude](Part2/parseAndLexInclude.png)
 
 
 5. removeComments in Lexer.java / 98
 ------
-![removeComments(String usl)](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/removeComments.png)
+![removeComments(String usl)](Part2/removeComments.png)
 
 
 6. findBlockEnd in  Parser.java / 223
 ------
-![findBlockEnd()](https://github.com/HuberNicolas/swc-group38/blob/master/SoftCon2020_Assignment_1/Part2/findBlockEnd.png)
+![findBlockEnd()](Part2/findBlockEnd.png)
 
 For each function, there is a flowchart (.png file) in the Part2 folder.
