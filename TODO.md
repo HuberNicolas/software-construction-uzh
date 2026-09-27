@@ -30,7 +30,7 @@ Open tasks before the repository is made public. See also [Known issues](README.
 - [x] Choose and add a license (MIT, all three authors)
 - [x] Add the course context (course, institution, semester, group) to the README
 - [x] Get the consent of Louis Huber and Robin Wassink
-- [ ] Rename the GitHub repository to `software-construction-uzh`, then
+- [x] Rename the GitHub repository to `software-construction-uzh`, then
   `git remote set-url origin git@github.com:HuberNicolas/software-construction-uzh.git`
 - [x] Rewrite the private commit e-mail addresses of the co-authors to their GitHub noreply addresses with a mailmap
   (dates and content stay the same; backup: `_archive/swc-group38-before-filter-repo.bundle`)
