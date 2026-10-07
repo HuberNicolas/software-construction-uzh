@@ -96,8 +96,10 @@ You need a JDK and curl, or Docker. The script was tested with JDK 15 and JDK 21
 | Bakery chain | `Main` | `out/assignment-5/Bakery` |
 | Company system (MVC) | `MVCPatternDemo` | `out/assignment-6/CompanySystem` |
 
-Battleship is interactive: enter the start and end field of a ship as in `A1 A5`, and a shot as in `B3`. Run it in a
-terminal (with `docker run -it` in Docker).
+Battleship is interactive. The board has the rows `A`–`J` and the columns `0`–`9`. You place one carrier (6 fields),
+two battleships (4), three submarines (3) and four patrol boats (2) by entering the start and end field, as in `A0 A5`
+for the carrier; [defaultShips.txt](assignment-3/defaultShips.txt) shows a valid fleet. A shot is one field, as in
+`B3`. Run the game in a terminal (with `docker run -it` in Docker).
 
 ## Known issues
 
