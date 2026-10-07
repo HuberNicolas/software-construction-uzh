@@ -20,8 +20,12 @@ design with CRC cards.
 
 > [!NOTE]
 > This is unofficial study material. The code and answers are shown as we submitted them in 2020: they are not
-> corrected, and the repository is not developed further. The assignment sheets are not included. We worked in the
-> course repository `swc-group38` (group 38), which was later renamed to `software-construction-uzh`.
+> corrected, and the repository is not developed further. The assignment sheets are not included.
+
+> [!TIP]
+> The repository was originally called `swc-group38` (group 38 of the course) and was renamed to
+> `software-construction-uzh` in 2026. Old links to `github.com/HuberNicolas/swc-group38` redirect here, and the
+> commit messages and the release `v1.0.0` still use the old name.
 
 ## Course
 
