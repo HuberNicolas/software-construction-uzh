@@ -18,7 +18,8 @@ Open tasks before the repository is made public. See also [Known issues](README.
 ## 2. Build
 
 - [x] Add `build.sh`: compiles all projects and runs the JUnit 4 and 5 tests (tested with JDK 15 and 21)
-- [ ] Play a full game of Battleship (assignments 2 and 3) in a terminal; only ship placement was tried
+- [x] Play Battleship with the fleet from `defaultShips.txt`: assignment 2 places the ships and prints the board,
+  assignment 3 runs a full game against the computer until "Congratulations, you won!"
 
 ## 3. Documentation
 
